@@ -2,13 +2,13 @@
 
 ### 👩‍💻 Sobre mí
 Soy estudiante de segundo año de **Ingeniería en Informática**. Me apasiona crear soluciones que mezclen la lógica estructurada con la creatividad. Actualmente enfocado en:
-- 🗄️ Arquitectura de bases de datos con **MySQL/MariaDB**.
-- 🛠️ Explorando **Patrones de Diseño** para arquitecturas más limpias.
+- 🗄️ Arquitectura de bases de datos con MySQL/MariaDB.
+- 🛠️ Explorando patrones de diseño para arquitecturas más limpias.
+- 🌐 Desarrollo Web, explorando la creación de interfaces dinámicas y modernas.
 
 ---
 
 ### 🛠️ Tecnologías y Herramientas
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000f?style=for-the-badge&logo=mysql&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
