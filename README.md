@@ -14,13 +14,8 @@ Fun fact Además de programar, me apasiona la costura creativa,  la lectura y la
 
 # ¡Hola! Soy Catalina Aravena 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Calitana&label=Perfil%20Visto&color=0e75b6&style=flat" alt="Calitana" />
-</p>
-
 ### 👩‍💻 Sobre mí
 Soy estudiante de segundo año de **Ingeniería en Informática**. Me apasiona crear soluciones que mezclen la lógica estructurada con la creatividad. Actualmente enfocado en:
-- 💻 Desarrollo Desktop con **C# (.NET)**.
 - 🗄️ Arquitectura de bases de datos con **MySQL/MariaDB**.
 - 🛠️ Explorando **Patrones de Diseño** para arquitecturas más limpias.
 
